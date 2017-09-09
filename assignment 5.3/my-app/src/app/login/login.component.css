@@ -1,0 +1,17 @@
+/* Login Component Html template styles */
+
+section h1{
+    display: none;
+}
+form {
+  margin-top: 50px;
+}
+
+form input {
+  margin-bottom: 10px;
+}
+
+form .btn {
+  border: none;
+  outline: none;
+}
